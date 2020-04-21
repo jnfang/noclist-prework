@@ -27,6 +27,9 @@ To run get users from project home dir
     python -m  unittest users_test.py
     python -m  unittest request_wrapper_test.py
 
+## Dev environment
+[VSCode](https://code.visualstudio.com/download "VSCode Download") with the `unittest` test configuration in the `tests`/ dir
+
 ## Off boarding
 Deactivate the python env when you would like to switch back to your native Python env
     
