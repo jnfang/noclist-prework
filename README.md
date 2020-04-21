@@ -33,5 +33,5 @@ Deactivate the python env when you would like to switch back to your native Pyth
     deactivate
 
 ## Assumptions
-I assume that all connection issues or error codes thrown by the flaky server will either be in requests.exceptions.RequestException or a ConnectionResetError 
+I assume that all connection issues or error codes thrown by the flaky server will either be in `requests.exceptions.RequestException` or a `ConnectionResetError`
 
